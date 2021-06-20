@@ -33,3 +33,7 @@
 # 🎮 Fortnite Commands
 
 `fortnite-shop`
+
+# 🔒️ Verification Commands
+
+`verification-enable`, `verification-disable`
