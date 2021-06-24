@@ -1,3 +1,5 @@
+⚠ **__To use any command you need to add the prefix `.` before it!__**
+
 # ✨ Utility Commands
 
 `avatar`, `ping`, `whois`, `botinfo`, `serverinfo`, `timer`, `covid`, `uptime`
@@ -37,3 +39,7 @@
 # 🔒️ Verification Commands
 
 `verification-enable`, `verification-disable`
+
+# 💗 NQN (Not Quite Nitro)
+
+`nqn`
