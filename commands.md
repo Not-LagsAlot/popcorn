@@ -13,7 +13,7 @@
 `ban`, `kick`, `warn`, `purge`, `slowmode`, `mute`, `unmute`, `announce`, `nqn`
 
 # 🎉 Giveaway Commands
-
+ 
 `giveaway (time here) (channel here) (prize here)`
 
 # 🔥 Reaction Role Commands
@@ -43,3 +43,7 @@
 # 💗 NQN (Not Quite Nitro)
 
 `nqn`
+
+# 🎶 Music Commands
+
+`play`, `skip`, `stop`, `queue`
