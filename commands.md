@@ -2,7 +2,7 @@
 
 # ✨ Utility Commands
 
-`avatar`, `ping`, `whois`, `botinfo`, `serverinfo`, `timer`, `covid`, `uptime`
+`avatar`, `ping`, `whois`, `botinfo`, `serverinfo`, `timer`, `uptime`
 
 # 🚀 Fun Commands
 
@@ -10,7 +10,7 @@
 
 # 🚨 Moderation Commands
 
-`ban`, `kick`, `warn`, `purge`, `slowmode`, `mute`, `unmute`, `announce`, `nqn`
+`ban`, `kick`, `warn`, `purge`, `slowmode`, `mute`, `unmute`, `announce`
 
 # 🎉 Giveaway Commands
  
@@ -47,3 +47,7 @@
 # 🎶 Music Commands
 
 `play`, `skip`, `stop`, `queue`
+
+# 🤧 Covid Commands
+
+`covid`
